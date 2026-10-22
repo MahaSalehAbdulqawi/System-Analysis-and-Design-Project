@@ -1,16 +1,10 @@
 # NewPoint ERP System Analysis
 
-This group project focuses on the systems analysis and design of the NewPoint ERP system for Al-Nahdah Auto Parts Company, with the goal of improving business operations, streamlining processes, and supporting better decision-making through a more efficient and integrated information system.
-
-The project was developed as part of KAU MIS377: System Analysis and Design.
-
----
-
 ## Overview
 
-NewPoint ERP is used to support core business activities such as inventory management, purchasing, supplier coordination, and operational reporting. However, as business needs evolve, the existing system may face limitations in efficiency, visibility, and process integration.
+This group project analyzes and redesigns the NewPoint ERP system for Al-Nahdah Auto Parts Company to improve operational efficiency and decision-making. It evaluates existing processes in inventory, purchasing, and supplier management, identifies weaknesses, and proposes improvements to streamline workflows and enhance reporting.
 
-This project analyzes the current system, identifies weaknesses and operational gaps, and proposes a redesigned solution that enhances productivity, improves data accuracy, and supports more effective management decisions.
+Developed as part of KAU MIS377: System Analysis and Design.
 
 ---
 
@@ -104,13 +98,3 @@ The project applies common systems analysis and design methods, including:
 This repository includes project-related documents and PDF reports for the analysis and design phases of the NewPoint ERP enhancement initiative.
 
 ---
-
-## License
-
-This project is for academic and educational purposes as part of the Systems Analysis and Design course.
-
----
-
-## Contact
-
-For questions or collaboration inquiries, please contact the repository owner through GitHub.
