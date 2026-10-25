@@ -50,8 +50,6 @@ The redesigned ERP solution introduces several improvements, including:
 This project includes a structured systems analysis of the organization’s current processes and requirements, covering:
 
 - Requirements gathering through interviews, surveys, and business documents
-- As-Is process analysis
-- To-Be system design
 - Context diagrams
 - Data flow diagrams (DFD Level 0 and Level 1)
 - Functional and non-functional requirements
@@ -77,8 +75,7 @@ This repository contains project documentation and analysis artifacts related to
 The project applies common systems analysis and design methods, including:
 
 - requirement elicitation
-- process modeling
-- data flow analysis
+- Data Flow Diagrams (DFDs)
 - business process redesign
 - project planning and prioritization
 - documentation and reporting
